@@ -1,5 +1,7 @@
 .vscode/**
 .vscode-test/**
+.idea
+.vscode
 src/**
 .gitignore
 .yarnrc
