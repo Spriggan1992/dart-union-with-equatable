@@ -1,3 +1,3 @@
 # dart-flutter-union README
 
-UNION!
+Simple extension to create Union class with Equatable package.
